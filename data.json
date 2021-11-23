@@ -1,4 +1,4 @@
-[
+{
 	{
 		"id": 1,
 		"email": "1@test.com",
@@ -23,4 +23,4 @@
 		"password": "423",
 		"status": false
 	}
-]
+}
